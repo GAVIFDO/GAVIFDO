@@ -6,7 +6,7 @@
 
 <div align="center">
 <h3>Designer and a frontend developer</h3>
-[![@gavifdo's Holopin board](https://holopin.me/gavifdo)](https://holopin.io/@gavifdo)
+![](https://holopin.me/gavifdo)](https://holopin.io/@gavifdo)
 </div>
 
 
