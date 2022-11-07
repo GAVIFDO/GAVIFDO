@@ -6,7 +6,6 @@
 
 <div align="center">
 <h3>Designer and a frontend developer</h3>
-![](https://holopin.me/@gavifdo)
 </div>
 
 
