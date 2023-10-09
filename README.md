@@ -1,3 +1,5 @@
+[![An image of @gavifdo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gavifdo)](https://holopin.io/@gavifdo)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GAVIFDO&label=Profile%20views&color=0e75b6&style=flat" alt="GAVIFDO" /> </p>
 <div align="center">
  <h1> Hi, I'm Gaviru Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
