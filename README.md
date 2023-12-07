@@ -1,42 +1,24 @@
-[![An image of @gavifdo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gavifdo)](https://holopin.io/@gavifdo)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GAVIFDO&label=Profile%20views&color=0e75b6&style=flat" alt="GAVIFDO" /> </p>
-<div align="center">
- <h1> Hi, I'm Gaviru Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-</div>
-
-<br>
-
-<div align="center">
-<h3>Designer and a frontend developer</h3>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on School<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with PHP<br>🌱 I’m currently learning JAVA
 
 
-### About Me
 
-- 👨‍💻 Programmer 
-- 📊 Designer
-- ⚡️ Like to help other people alot
-- 👨‍💻 Trying new things everytime 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=flat&logo=unreal-engine&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=methsilusenavirathne&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=methsilusenavirathne&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=methsilusenavirathne&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/%20-help--wanted-%23159818)
-![](https://img.shields.io/badge/Editor-VsCode-blue)
-![](https://img.shields.io/badge/Terminal-CMD-gray)
-![](https://img.shields.io/badge/Tools-Github-brightgreen)
-![](https://img.shields.io/badge/Tools-blender-orange)
-![](https://img.shields.io/badge/Tools-PhotoShop-red)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=methsilusenavirathne&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Frequently Used Languages and Tools 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://camo.githubusercontent.com/c954e8e2eb864dd449dedee64ab0012ce778b64381b57b7aab788bf01a884fb5/68747470733a2f2f6e616b656473656375726974792e736f70686f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f73697465732f322f323031372f30312f6d6f6e676f64622e706e673f773d373735"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="40" src="https://pngimg.com/uploads/php/php_PNG35.png"></code>
-<code><img height="40" src="https://1.bp.blogspot.com/-cj0fnZUV2UU/XfZbW-gyHnI/AAAAAAAAFlw/Bcv6REXLEAIC96LEAnjAXAqr6x3VPrUNQCEwYBhgL/s1600/Mysql.png"></code>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=methsilusenavirathne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=methsilusenavirathne&icon=5&color=1)](https://visitcount.itsvg.in)
 
-[![GAVIFDO](https://github-readme-stats.vercel.app/api?username=GAVIFDO&show_icons=true&theme=tokyonight)](https://github.com/GAVIFDO)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAVIFDO&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/GAVIFDO)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
